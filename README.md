@@ -17,3 +17,5 @@ y finalmente nos dará los resultados:
 ![alt text](https://i.imgur.com/Yy2sAd5.jpg)
 
 
+Importante: Cambiar los poligonos de detección en datasets/parking2.yml, cada "points" es un cuadro de detección.
+
